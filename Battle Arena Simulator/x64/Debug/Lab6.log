@@ -1,0 +1,7 @@
+﻿  lab6.cpp
+  Monster.cpp
+  Player.cpp
+  Kod Üretiliyor...
+Monster.obj : error LNK2005: "public: int __cdecl Monster::monster_attack(int,int)" (?monster_attack@Monster@@QEAAHHH@Z) zaten lab6.obj üzerinde tanımlandı
+Player.obj : error LNK2005: "public: int __cdecl Player::player_attack(int,int)" (?player_attack@Player@@QEAAHHH@Z) zaten lab6.obj üzerinde tanımlandı
+C:\Users\tahsi\Documents\projects\vs2022\Lab6\x64\Debug\Lab6.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu
